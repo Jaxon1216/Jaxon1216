@@ -16,7 +16,7 @@
 ## 🚀 技术专长
 
 ### 核心技术栈
-- **前端开发**: 精通HTML5/CSS3布局与动画、JavaScript(ES6+)核心特性，熟练使用Vue框架构建组件化应用，擅长响应式设计与跨端适配
+- **前端开发**: HTML5/CSS3、JavaScript(ES6+)，Vue3
 
 ### 工具与平台
 - **开发工具**: cursor, Git, Chrome DevTools
