@@ -1,14 +1,7 @@
-<h1 align="center">Hi, I'm Jaxon</h1>
-<h3 align="center">专注的Web全栈开发者</h3>
+<h1 align="center">Hi, I'm EastonJiang</h1>
+<h3 align="center">Web全栈开发者</h3>
 
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat&logo=javascript)
-  ![Vue](https://img.shields.io/badge/Vue-Expert-green?style=flat&logo=vue.js)
-  ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat&logo=node.js)
-  
+
 </div>
 
 ---
