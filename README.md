@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm EastonJiang</h1>
-<h3 align="center">Web全栈开发者</h3>
+<h3 align="center">大前端开发者</h3>
 
 
 </div>
